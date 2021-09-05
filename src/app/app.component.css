@@ -1,0 +1,14 @@
+body {
+	padding: 1em;
+	text-align: center;
+	backgroung-color: gainsboro;
+}
+
+.page-title {
+	color: red;
+}
+
+.greet-text {
+	border-top: solid;
+	border-bottom: solid;
+}
