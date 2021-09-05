@@ -1,14 +1,28 @@
 body {
-	padding: 1em;
-	text-align: center;
-	backgroung-color: gainsboro;
+  padding: 1em;
+  text-align: center;
+  backgroung-color: gainsboro;
 }
 
 .page-title {
-	color: red;
+  color: red;
 }
 
 .greet-text {
-	border-top: solid;
-	border-bottom: solid;
+  border-top: solid;
+  border-bottom: solid;
+}
+
+.wall {
+  background-image: url('/assets/sora.png');
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  top: 0;
+  left: 0;
+  position: absolute;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-attachment: fixed;
 }
