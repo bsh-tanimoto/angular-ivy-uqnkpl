@@ -14,7 +14,7 @@ body {
 }
 
 .wall {
-  background-image: url(assets/images/sora.png);
+  background-image: url("./assets/images/sora.png");
   width: 100%;
   height: 100%;
   margin: 0;
