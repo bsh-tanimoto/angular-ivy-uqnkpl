@@ -6,8 +6,6 @@ import { Component, VERSION } from '@angular/core';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  name = 'Angular ' + VERSION.major;
-　path  = '/sora.png';
+ path  = '/sora.png';
  title = 'app';
-  patha  = require('assets/bird.png');
 }
